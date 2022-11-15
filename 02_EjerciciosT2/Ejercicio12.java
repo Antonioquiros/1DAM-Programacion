@@ -1,5 +1,4 @@
-/*
- */
+
 package ejercicio12;
 import bpc.daw.objetos.*;
 
