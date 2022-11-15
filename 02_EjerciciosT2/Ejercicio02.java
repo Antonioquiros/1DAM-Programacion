@@ -1,5 +1,5 @@
 
-package actividad02_tema02;
+package actividad02;
 import bpc.daw.mario.*;
 
 /**
