@@ -1,14 +1,13 @@
-/*
- */
+
 package actividad05_tema2;
 import bpc.daw.mario.*;
 import java.util.Scanner;
 
 /**
  *
- * @author anton
+ * @author antonio antonioquiros2324@gmail.com
  */
-public class Actividad05_tema2 {
+public class Actividad05 {
 
     /**
      * @param args the command line arguments
