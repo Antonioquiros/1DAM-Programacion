@@ -1,5 +1,4 @@
-/*
- */
+
 package ejercicio07_tema2;
 import bpc.daw.objetos.*;
 
@@ -7,7 +6,7 @@ import bpc.daw.objetos.*;
  *
  * @author anton
  */
-public class Ejercicio07_tema2 {
+public class Ejercicio07 {
     
 
     /**
