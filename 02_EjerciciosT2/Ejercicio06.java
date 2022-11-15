@@ -1,14 +1,13 @@
-/*
- */
+
 package ejercicio06_tema2;
 import bpc.daw.mario.*;
 import java.util.Scanner;
 
 /**
  *
- * @author anton
+ * @author antonio antonioquiros2324@gmail.com
  */
-public class Ejercicio06_tema2 {
+public class Ejercicio06 {
 
     /**
      * @param args the command line arguments
