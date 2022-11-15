@@ -21,7 +21,7 @@ public class Actividad04 {
         System.out.println("El munieco de Luigi esta a distancia "+distancia);
          System.out.println("El munieco de Mario esta a distancia "+distancia2);
         
-        // TODO code application logic here
+        
     }
     
 }
