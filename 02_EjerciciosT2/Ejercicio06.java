@@ -24,7 +24,7 @@ public class Ejercicio06 {
         m3 = new Scanner(System.in).nextInt();
         m1.colocar(m2, m3);
         
-        // TODO code application logic here
+        
     }
     
 }
