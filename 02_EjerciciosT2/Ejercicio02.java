@@ -1,11 +1,10 @@
-/*
- */
+
 package actividad02_tema02;
 import bpc.daw.mario.*;
 
 /**
  *
- * @author anton
+ * @author antonio antonioquiros2324@gmail.com
  */
 public class Actividad02_tema02 {
 
