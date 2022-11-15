@@ -1,13 +1,12 @@
-/*
- */
+
 package actividad04_tema2;
 import bpc.daw.mario.*;
 
 /**
  *
- * @author anton
+ * @author antonio antonioquiros2324@gmail.com
  */
-public class Actividad04_tema2 {
+public class Actividad04 {
 
     /**
      * @param args the command line arguments
