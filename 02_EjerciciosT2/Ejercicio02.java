@@ -6,7 +6,7 @@ import bpc.daw.mario.*;
  *
  * @author antonio antonioquiros2324@gmail.com
  */
-public class Actividad02_tema02 {
+public class Actividad02 {
 
     /**
      * @param args the command line arguments
