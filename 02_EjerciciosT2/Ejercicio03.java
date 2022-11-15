@@ -32,7 +32,7 @@ public class Actividad03 {
         p2.comer(true);
         p3.comer(true);
         
-        // TODO code application logic here
+        
     }
     
 }
