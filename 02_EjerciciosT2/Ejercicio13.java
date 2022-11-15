@@ -1,12 +1,11 @@
-/*
- */
+
 package ejercicio13.t2;
 import bpc.daw.objetos.*;
 import java.util.Scanner;
 
 /**
  *
- * @author anton
+ * @author antonio antonioquiros2324@gmail.com
  */
 public class Ejercicio13T2 {
 
