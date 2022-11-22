@@ -20,7 +20,7 @@ public class Ejercicio21T2 {
         if(ruta1.isDirectory()){
             System.out.println(ruta1.listFiles());
         }else{
-            System.out.println("La información introducida es errónea");
+            System.out.println("La ruta introducida no es un directorio");
         }
     }
     
