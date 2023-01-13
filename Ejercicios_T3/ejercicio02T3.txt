@@ -1,0 +1,33 @@
+a)Se repite los saltos que debe dar Mario.Determinada
+
+b)Se repiten las flexiones hasta que se diga lo contrario.Indeterminada
+
+c)Se repite que pone numeros hasta que sale el 0.Indeterminada
+
+d)Debe escribir una frase 100 veces.Determinadas con interrupción
+
+e)Se debe repetir que se saquen los artículos.Determinada
+
+f)Se repite el sonido hasta que se coge o se cuelga.Indeterminadas
+
+g)Se deben repetir 20 operaciones. Determinadas
+
+h)Repetir el mensaje hasta que pare el usuario.Indeterminado
+
+i)Se repite el uso. indeterminada
+
+j)Se repite andar y parar. Determinadas con interrupción
+
+k)Se repite comprar cosas.Determinada con interrupción
+
+l)Se repite la transferencia. Determinada
+
+m)Se repite la grabación de los discos. Determinada con interrupción
+
+n)Se repite el funcionamiento de la alarma.Indeterminada
+
+o)Se repiten los lanzamientos de penalti.Determinada con interrupción
+
+p)Se repitre la realización de ejercicios. Determinada con interrupción
+
+q)Se repite el menú de opciones.Indeterminada
