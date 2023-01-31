@@ -24,7 +24,7 @@ public class DNI {
     public int getNumero() {
         return numero;
     }
-    public int getLetra(){
+    public char getLetra(){
         return letra;}
 
 }
