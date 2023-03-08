@@ -1,0 +1,18 @@
+ ¿En qué situaciones pondrías a una propiedad el modificador por defecto? 
+
+a) Estoy haciendo un programa yo solo y hago muchas clases en el mismo paquete. 
+
+Sí porque asi se puede utilizar en todas las clases del mismo paquete
+
+b) Hago una librería de clases para ponerla en Internet y que todo el mundo la use. 
+
+No porque las propiedades no estarían disponibles para otras clases fuera del paquete.
+
+c) Le dejo a mi mejor amigo una clase que he hecho para que la use en su programa. 
+
+Sí porque asi tendría acceso a ellas y ver como funcionan
+
+d) Estoy haciendo una clase y tengo compañeros que van a hacer clases en el mismo 
+paquete. 
+
+No ya que pueden modificar mal las propiedades.
